@@ -1,5 +1,6 @@
 ﻿using System;
 using SystemSpecification.ComputerProfile;
+using SystemSpecification.SystemModel;
 
 namespace SystemSpecs
 {

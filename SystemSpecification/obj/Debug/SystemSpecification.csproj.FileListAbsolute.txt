@@ -1,0 +1,6 @@
+C:\Users\visha\source\repos\SystemSpecs\ComputerSpecs\SystemSpecification\bin\Debug\SystemSpecification.dll
+C:\Users\visha\source\repos\SystemSpecs\ComputerSpecs\SystemSpecification\bin\Debug\SystemSpecification.pdb
+C:\Users\visha\source\repos\SystemSpecs\ComputerSpecs\SystemSpecification\obj\Debug\SystemSpecification.csprojAssemblyReference.cache
+C:\Users\visha\source\repos\SystemSpecs\ComputerSpecs\SystemSpecification\obj\Debug\SystemSpecification.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\SystemSpecs\ComputerSpecs\SystemSpecification\obj\Debug\SystemSpecification.dll
+C:\Users\visha\source\repos\SystemSpecs\ComputerSpecs\SystemSpecification\obj\Debug\SystemSpecification.pdb

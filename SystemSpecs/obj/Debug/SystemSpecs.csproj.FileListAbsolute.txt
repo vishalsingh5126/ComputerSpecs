@@ -1,0 +1,10 @@
+C:\Users\visha\source\repos\SystemSpecs\ComputerSpecs\SystemSpecs\bin\Debug\SystemSpecs.exe.config
+C:\Users\visha\source\repos\SystemSpecs\ComputerSpecs\SystemSpecs\bin\Debug\SystemSpecs.exe
+C:\Users\visha\source\repos\SystemSpecs\ComputerSpecs\SystemSpecs\bin\Debug\SystemSpecs.pdb
+C:\Users\visha\source\repos\SystemSpecs\ComputerSpecs\SystemSpecs\bin\Debug\SystemSpecification.dll
+C:\Users\visha\source\repos\SystemSpecs\ComputerSpecs\SystemSpecs\bin\Debug\SystemSpecification.pdb
+C:\Users\visha\source\repos\SystemSpecs\ComputerSpecs\SystemSpecs\obj\Debug\SystemSpecs.csprojAssemblyReference.cache
+C:\Users\visha\source\repos\SystemSpecs\ComputerSpecs\SystemSpecs\obj\Debug\SystemSpecs.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\SystemSpecs\ComputerSpecs\SystemSpecs\obj\Debug\SystemSpecs.csproj.CopyComplete
+C:\Users\visha\source\repos\SystemSpecs\ComputerSpecs\SystemSpecs\obj\Debug\SystemSpecs.exe
+C:\Users\visha\source\repos\SystemSpecs\ComputerSpecs\SystemSpecs\obj\Debug\SystemSpecs.pdb
