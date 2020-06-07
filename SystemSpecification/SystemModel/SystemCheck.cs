@@ -19,8 +19,9 @@ namespace SystemSpecification.SystemModel
             foreach (ManagementObject queryObj in searcher.Get())
             {
                 systemModel.SerialNumber = Convert.ToString(queryObj["IdentifyingNumber"]).Trim();
-                systemModel.ManufacturerAndModel = Convert.ToString(queryObj["Vendor"]).Trim() + " " +
-                    Convert.ToString(queryObj["Name"]).Trim() + " " + Convert.ToString(queryObj["Version"]).Trim();
+                systemModel.Manufacturer = Convert.ToString(queryObj["Vendor"]).Trim();
+                systemModel.Model = Convert.ToString(queryObj["Name"]).Trim();
+                systemModel.Version =  Convert.ToString(queryObj["Version"]).Trim();
             }
             GetChassisAndTag(systemModel);
             return systemModel;

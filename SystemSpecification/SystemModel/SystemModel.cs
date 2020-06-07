@@ -8,7 +8,9 @@ namespace SystemSpecification.SystemModel
 {
     public class SystemModel
     {
-        public string ManufacturerAndModel { get; set; }
+        public string Manufacturer { get; set; }
+        public string Model { get; set; }
+        public string Version { get; set; }
         public string SerialNumber { get; set; }
         public string AssetTag { get; set; }
         public string EnclosureType { get; set; }

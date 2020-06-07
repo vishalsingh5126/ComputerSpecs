@@ -11,7 +11,8 @@ namespace SystemSpecification.ComputerProfile
             ManagementObjectSearcher searcher = new ManagementObjectSearcher("root\\CIMV2", "SELECT * FROM Win32_ComputerSystem");
             foreach (ManagementObject queryObj in searcher.Get())
             {
-                computerProfileModel.ComputerName = Convert.ToString(queryObj["Name"] + " (in " + Convert.ToString(queryObj["Workgroup"]) + ")");
+                computerProfileModel.ComputerName = Convert.ToString(queryObj["Name"]);
+                computerProfileModel.Workgroup = Convert.ToString(queryObj["Workgroup"]);
                 computerProfileModel.WindowsLogOn = Convert.ToString(queryObj["UserName"]);
             }
             return computerProfileModel;

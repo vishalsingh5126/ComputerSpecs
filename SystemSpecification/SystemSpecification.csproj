@@ -44,6 +44,8 @@
   <ItemGroup>
     <Compile Include="ComputerProfile\ComputerProfile.cs" />
     <Compile Include="ComputerProfile\ComputerProfileModel.cs" />
+    <Compile Include="OperatingSystem\InstalledOS.cs" />
+    <Compile Include="OperatingSystem\InstalledOSModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SystemModel\ChassisInfo.cs" />
     <Compile Include="SystemModel\SystemCheck.cs" />
