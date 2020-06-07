@@ -8,6 +8,7 @@ namespace SystemSpecification.Processor
 {
     public class ArchitectureInfo
     {
+        /*reference https://docs.microsoft.com/en-us/windows/win32/cimwin32prov/win32-processor*/
         public static string GetArchitectureInfo(int architectureId)
         {
             string architecture = "";
